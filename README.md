@@ -13,6 +13,10 @@ __🦂 INSTALACION:🦂__
 
 * ls
 
+* chmod 777 xerxes.c
+
+* ls
+
 * gcc xerxes.c -o xerxes
 
 __USO:__
