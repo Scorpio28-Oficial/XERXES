@@ -7,7 +7,7 @@ __🦂 INSTALACION:🦂__
 
 * pkg install -y git
 
-*git clone https://github.com/Scorpio28-Oficial/XERXES
+* git clone https://github.com/Scorpio28-Oficial/XERXES
 
 * cd XERXES
 
