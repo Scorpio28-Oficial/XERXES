@@ -1,4 +1,8 @@
 ##### XERXES
+<p align="center">
+	<img src="https://i.imgur.com/irjPuRt.jpg" width="600px">
+</p>
+
 XERXES la herramienta Ddos más potente.
 
 ##### 🦂 INSTALACION:🦂
