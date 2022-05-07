@@ -26,7 +26,7 @@ USO:
 * ./xerxes www.fakeweb.com 80
 ```
 
-##### By: Scorpio28
+##### By: CARLOBER
 
 ##### El uso de la herramienta, es responsabilidad de quien la utilize.
 
